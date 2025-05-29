@@ -1,0 +1,12 @@
+/SkyGuardian
+│
+├── main.py             # 🚧 Coming Soon
+├── dashboard/          # 🚧 Coming Soon
+│   ├── index.html
+│   └── styles.css
+├── sensor-data/        # 🚧 Coming Soon
+│   └── log.csv
+├── flight-controller/  # Scripts to communicate via MAVLink (Coming Soon)
+├── models/             # Face recognition model and preprocessing
+├── README.md
+```
